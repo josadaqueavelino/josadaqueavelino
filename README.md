@@ -1,0 +1,3 @@
+- 👋 Olá, sou Josadaque Paulo Avelino
+- 👀 Atualmente estou tentando configurar um painel SMM
+- 🌱 Estou aprendendo criação de site via WordPress e instalação de scripts php
